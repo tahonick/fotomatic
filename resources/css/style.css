@@ -191,9 +191,8 @@ header .mobile {
     #sign-up-cta {
         position: static;
         width: auto;
-        height: auto;
-        background-color: transparent;
         border: none;
+        height: auto;
     }
 
     #sign-up-cta .content {
